@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "【OffVocal】 ニュー・マイ・ノーマル / Mrs.GREENAPPLE 【ニコカラ】【instrumental】【カラオケ】",
+  "base_artist": "Snap Records【Offvocal化世界最速】",
+  "createdAt": "2025-12-01T10:41:14.791688Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ニュー・マイ・ノーマル",
+      "artist": "Mrs. Green Apple",
+      "has_synced": true,
+      "path": "select/01_ニュー・マイ・ノーマル_Mrs._Green_Apple.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ニュー・マイ・ノーマル - New My Normal",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/02_ニュー・マイ・ノーマル_-_New_My_Normal_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ニュー・マイ・ノーマル (~The White Lounge Version~ / Live) - New My Normal (~The White Lounge Version~ / Live)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/03_ニュー・マイ・ノーマル_(~The_White_Lounge_Version~___Live)_-_New_My_Normal_(~The_White_Loun_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ニュー・マイ・ノーマル - ~The White Lounge Version~ / Live",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/04_ニュー・マイ・ノーマル_-_~The_White_Lounge_Version~___Live_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ニュー・マイ・ノーマル - New My Normal",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/05_ニュー・マイ・ノーマル_-_New_My_Normal_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "07. ニュー・マイ・ノーマル ~The White Lounge Version~ FLAC",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/06_07._ニュー・マイ・ノーマル_~The_White_Lounge_Version~_FLAC_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ニュー・マイ・ノーマル",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_ニュー・マイ・ノーマル_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ニュー・マイ・ノーマル",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_02_ニュー・マイ・ノーマル_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ニュー・マイ・ノーマル",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_03_ニュー・マイ・ノーマル_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ニュー・マイ・ノーマル",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_04_ニュー・マイ・ノーマル_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ニュー・マイ・ノーマル",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_05_ニュー・マイ・ノーマル_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
